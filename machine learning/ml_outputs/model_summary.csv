@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,Recall,F1_Score,ROC_AUC
+Logistic Regression,0.6955,0.8798,0.5424,0.6711,0.7441
+XGBoost,0.6647,0.6817,0.7776,0.7265,0.7631
+Stacking Ensemble,0.7031,0.8489,0.5858,0.6933,0.7704
+Final (XGBoost),0.6647,0.6817,0.7776,0.7265,0.7631

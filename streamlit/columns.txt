@@ -1,0 +1,44 @@
+Type
+Order Status
+Days for shipment (scheduled)
+Shipping Mode
+Sales
+Order Item Quantity
+Order Item Discount
+Order Item Discount Rate
+Order Item Product Price
+Order Item Profit Ratio
+Order Profit Per Order
+Benefit per order
+profit_margin
+Product Price
+Product Status
+Category Name
+Department Name
+Customer Id
+Customer Segment
+Customer Country
+Market
+Order Region
+Order Country
+Order City
+Order State
+order_weekday
+order_month
+order_day
+order_is_weekend
+scheduled_days
+actual_workdays
+delta_days
+delta_ratio
+Order Region_prior_late_rate
+Shipping Mode_prior_late_rate
+Customer Segment_prior_late_rate
+Category Name_prior_late_rate
+Order Country_prior_late_rate
+Market_prior_late_rate
+Customer Id_cum_late_rate
+Customer Country_cum_late_rate
+Order Country_cum_late_rate
+is_high_value
+has_discount

@@ -1,0 +1,31 @@
+=== Model Evaluation Summary ===
+
+Dataset class distribution:
+  On Time (0): 77119
+  Late (1): 103400
+
+Test set class distribution:
+  On Time (0): 15424
+  Late (1): 20680
+
+Confusion matrix (rows=true, cols=predicted):
+[[15337    87]
+ [  113 20567]]
+
+Classification report:
+              precision    recall  f1-score   support
+
+     On Time       0.99      0.99      0.99     15424
+        Late       1.00      0.99      1.00     20680
+
+    accuracy                           0.99     36104
+   macro avg       0.99      0.99      0.99     36104
+weighted avg       0.99      0.99      0.99     36104
+
+ROC-AUC score: 0.9999
+
+Precision-Recall curve saved to: ml_outputs\precision_recall_curve.png
+Confusion matrix image saved to: ml_outputs\confusion_matrix.png
+
+Feature count: 44
+Test set size: 36104

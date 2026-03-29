@@ -1,0 +1,45 @@
+Feature,Importance
+Customer Id,4573
+Order City,4501
+Order State,4122
+order_day,3814
+Order Country,2501
+Order Country_prior_late_rate,2419
+order_weekday,2179
+order_month,2154
+Order Region_prior_late_rate,1908
+Customer Id_cum_late_rate,1862
+Customer Country_cum_late_rate,1752
+Customer Segment_prior_late_rate,1746
+Market_prior_late_rate,1698
+Category Name_prior_late_rate,1482
+Order Region,1449
+Order Item Discount,1437
+Order Profit Per Order,1381
+profit_margin,1172
+Order Status,1104
+Shipping Mode_prior_late_rate,873
+Sales,786
+Order Item Discount Rate,751
+Order Item Profit Ratio,695
+Category Name,636
+Market,611
+Customer Segment,584
+Type,476
+Order Item Product Price,434
+Order Item Quantity,297
+delta_days,277
+Department Name,264
+Days for shipment (scheduled),252
+Customer Country,165
+actual_workdays,24
+order_is_weekend,16
+has_discount,5
+Benefit per order,0
+Shipping Mode,0
+Product Status,0
+Product Price,0
+delta_ratio,0
+scheduled_days,0
+Order Country_cum_late_rate,0
+is_high_value,0
